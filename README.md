@@ -4,4 +4,4 @@ This extension allows a user to drill between two dimensions in a bar chart by h
 
 An example QVF is included that demonstrates the extension with a random data set.
 
-![Visualization]()
+![Visualization](https://github.com/skokenes/Qlik_Sense_Extension-HoverDrill/raw/master/Screenshots/Hover%20Drill%20clip%20720.gif)
