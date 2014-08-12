@@ -1,0 +1,9 @@
+{
+	"name" : "Hover Drill Bar Chart",
+	"description" : "A bar chart that can be hovered to drill down a dimension",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Speros Kokenes"
+}

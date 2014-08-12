@@ -1,0 +1,41 @@
+.qv-object-qs-hoverdrill div.qv-object-content-container {
+	width:320px;
+	height:170px;
+	overflow:auto;
+}
+
+
+.qv-object-qs-hoverdrill .bar {
+	fill:#4393c3;
+
+}
+
+.qv-object-qs-hoverdrill text {
+	font-family: sans-serif;
+	font-size:14px;
+	font-weight:300;
+}
+
+.qv-object-qs-hoverdrill .dim_label {
+	text-anchor:end;
+}
+
+.qv-object-qs-hoverdrill .dim_sub_label {
+	font-size:12px;
+	text-anchor:end;
+}
+
+.qv-object-qs-hoverdrill .hover_bar {
+	fill-opacity:0;
+	//#4393c3stroke:black;
+	//stroke-width:1px;
+}
+
+.qv-object-qs-hoverdrill .sub_bar {
+	fill:#92c5de;
+}
+
+.qv-object-qs-hoverdrill .bar_sub_label {
+	font-size:12px;
+}
+
